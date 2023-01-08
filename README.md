@@ -1,7 +1,7 @@
 # AirLine_ticketPrice_Prediction
 Machine learning Project that consist of 2 milestones  ( predicting the price of a ticket ,secondlly predict the category --> cheap or expensive)
 
-
+Visualized and explored the data. Pre-processed the data and Made feature engineering. Applied different regression models (Linear Regression, Polynomial Regression, Random Forest, Decision Tree) to predict ticket price. Applied different classification models (Logistic Regression, SVM, Random Forest, Decision Tree) to predict if the ticket price is expensive or not.
 
 How to run the code : 
 
