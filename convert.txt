@@ -1,0 +1,7 @@
+{' Bangalore': '0', ' Chennai': '1', ' Delhi': '2', ' Hyderabad': '3', ' Kolkata': '4', ' Mumbai': '5'}
+{' Bangalore': '0', ' Chennai': '1', ' Delhi': '2', ' Hyderabad': '3', ' Kolkata': '4', ' Mumbai': '5'}
+{'Air India': '0', 'AirAsia': '1', 'GO FIRST': '2', 'Indigo': '3', 'SpiceJet': '4', 'StarAir': '5', 'Trujet': '6', 'Vistara': '7'}
+{'2T': '0', '6E': '1', 'AI': '2', 'G8': '3', 'I5': '4', 'S5': '5', 'SG': '6', 'UK': '7'}
+{'0': '0', '1': '1', '2': '2'}
+{'business': '0', 'economy': '1'}
+{'cheap': '0', 'expensive': '1', 'moderate': '2', 'very expensive': '3'}
